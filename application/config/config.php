@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost/personaldancers/';
+$config['base_url']	= 'http://usersystem.pagodabox.com/';
 
 /*
 |--------------------------------------------------------------------------
